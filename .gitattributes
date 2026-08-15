@@ -1,0 +1,7 @@
+# Normalize line endings
+*.png binary
+
+yarn.lock linguist-generated   
+*.ts linguist-detectable
+public/* linguist-vendored
+# eof f895fa79
